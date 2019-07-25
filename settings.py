@@ -21,7 +21,7 @@ class Settings():
         self.fleet_drop_speed = 10
 
         #以什么样的速度加快游戏节奏
-        self.speedup_scale = 1.1
+        self.speedup_scale = 1.3
         #外星人点数提高速度
         self.score_scale = 1.5
 
